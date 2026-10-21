@@ -8,6 +8,13 @@ A portable Windows disk-health dashboard written in PowerShell and WPF.
 Shows SMART power-on hours, SSD write endurance, temperature, Windows and
 SMART health, and partition reports such as C: and D:.
 
+
+## Download
+
+[Download the latest Windows app](https://github.com/BeyondElectronics/MaxLab-Dynamics-SSD-Life-Free/releases/latest)
+
+Open the release, download the Windows x64 ZIP under **Assets**, extract the entire folder, and run **Start.cmd**.
+
 ## Run
 
 1. Download the complete repository or release ZIP and extract it.
