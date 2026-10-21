@@ -1,13 +1,15 @@
-# MaxLab Dynamics SSD Life Free
+# MaxLab Dynamics SSD Life Free — Free SSD Health Checker for Windows
 
 [MaxLab Dynamics](https://MaxLabDynamics.com)
 
 ![MaxLab Dynamics logo](assets/maxlab-logo.jpg)
 
-A portable Windows disk-health dashboard written in PowerShell and WPF.
-Shows SMART power-on hours, SSD write endurance, temperature, Windows and
-SMART health, and partition reports such as C: and D:.
+A free, portable SSD and HDD health checker for Windows 10 and 11, written in PowerShell and WPF.
+Check SMART health, power-on hours, drive temperature, and remaining SSD write endurance where supported.
+Includes NVMe and SATA SSDs, hard drives, and partition reports for C:, D:, and other volumes.
 
+
+[Product page and SSD health guide](https://beyondelectronics.github.io/MaxLab-Dynamics-SSD-Life-Free/)
 
 ## Download
 
