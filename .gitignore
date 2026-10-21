@@ -1,0 +1,9 @@
+# Reports may contain hardware serial numbers and volume labels.
+*report*.json
+reports/
+*.log
+*.tmp
+.vs/
+.vscode/
+Thumbs.db
+Desktop.ini
